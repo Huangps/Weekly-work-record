@@ -4,10 +4,11 @@
 学习antlr的使用，但是插件版的antlr都安装失败了，安装下载ANTLRWorks 2并使用
 
 ## 周二
+1.调bug，项目确实命名空间Microsoft.VisualStudio.TextTemplating，网上和扩展均不能找到。最后在PAT工具的文件下找到并复制过去
 
-
+csp界面的例子在PAT.Module.CCSP下的Ultility中，可以修改
 ## 周三
-
+学习antlr使用
 
 ## 周四
 
